@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1486401308 source:c:\users\teva\documents\langage c\bataille_navale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
